@@ -15,8 +15,5 @@ Therefore, there will be minimal instructions on how to get the code working.
 
 I have written and designed everything myself for this part of the project. This is phase 1, but my team
  is currently in phase 2 though the vast majority of my own work is now finished. We were specifically
- asked to not use libraries that did most of the work for us such as lucene. The only libraries I used were
- gson
- jsoup
- so to use the src code you'll need them.
+ asked to not use libraries that did most of the work for us such as lucene. 
  
